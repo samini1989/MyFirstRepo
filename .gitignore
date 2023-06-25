@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/DNmodel/v16
+/DNmodel/bin/Debug
+/DNmodel/obj/Debug
+/DNmodel/tDN_135b_V2.xml
+/DNmodel/tDN_135b_resultsAG3.txt
+/DNmodel/tDN_135b_results.txt
