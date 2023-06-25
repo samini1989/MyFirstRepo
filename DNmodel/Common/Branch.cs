@@ -9,7 +9,8 @@ namespace DNmodel.Common
 {
     public class Branch
     {
-        //Input data
+        // My edits
+       //Input data
         public int From; //Origin bus (From)
         public int To; // Destination bus (to)
         public Complex[][] Z; //Branch impedance matrix
@@ -24,6 +25,7 @@ namespace DNmodel.Common
 
         //Power Flow variables
         public Complex[] J; //Current flow through the branch
+
 
     }
 }
